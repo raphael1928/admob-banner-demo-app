@@ -35,8 +35,8 @@ coil = "2.4.0"
 junit = "4.13.2"
 junitVersion = "1.2.1"
 espressoCore = "3.6.1"
-admoblib = "1.0.0"
 compose-shimmer = "1.0.4"
+admoblib = "1.0.1"
 
 [libraries]
 # AndroidX
@@ -59,9 +59,6 @@ androidx-activity-compose = { group = "androidx.activity", name = "activity-comp
 # Navigation
 androidx-navigation-compose = { group = "androidx.navigation", name = "navigation-compose", version.ref = "navigationCompose" }
 
-# AdMob Lib
-admoblib = { group = "br.com.raphael.admoblib", name = "admoblib", version.ref = "admoblib" }
-
 # Ktor & JSON
 ktor-client-core = { module = "io.ktor:ktor-client-core", version.ref = "ktor" }
 ktor-client-okhttp = { module = "io.ktor:ktor-client-okhttp", version.ref = "ktor" }
@@ -76,6 +73,9 @@ koin-compose = { module = "io.insert-koin:koin-androidx-compose", version.ref = 
 
 # Coil
 coil-compose = { module = "io.coil-kt:coil-compose", version.ref = "coil" }
+
+# Admoblib
+admoblib = { group = "br.com.raphael.admoblib", name = "admoblib", version.ref = "admoblib" }
 
 # Shimmer
 compose-shimmer = { module = "com.valentinilk.shimmer:compose-shimmer", version.ref = "compose-shimmer" }

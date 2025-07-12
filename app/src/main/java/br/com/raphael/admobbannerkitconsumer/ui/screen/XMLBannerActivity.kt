@@ -3,8 +3,8 @@ package br.com.raphael.admobbannerkitconsumer.ui.screen
 import android.os.Bundle
 import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
-import br.com.raphael.admobbannerkit.core.model.AdEvent
-import br.com.raphael.admobbannerkit.core.model.AdEventListener
+import br.com.raphael.admobbannerkit.api.AdEvent
+import br.com.raphael.admobbannerkit.api.AdEventListener
 import br.com.raphael.admobbannerkitconsumer.databinding.ActivityXmlBannerBinding
 
 class XMLBannerActivity : AppCompatActivity() {

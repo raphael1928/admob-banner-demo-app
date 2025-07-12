@@ -11,9 +11,9 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.unit.dp
-import br.com.raphael.admobbannerkit.core.model.AdEvent
-import br.com.raphael.admobbannerkit.core.model.AdEventListener
-import br.com.raphael.admobbannerkit.core.ui.AdBanner
+import br.com.raphael.admobbannerkit.api.AdEvent
+import br.com.raphael.admobbannerkit.api.AdEventListener
+import br.com.raphael.admobbannerkit.ui.AdBanner
 import br.com.raphael.admobbannerkitconsumer.presentation.MovieViewModel
 import coil.compose.AsyncImage
 import com.valentinilk.shimmer.ShimmerBounds
