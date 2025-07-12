@@ -8,6 +8,7 @@
     android:layout_height="match_parent">
 
     <br.com.raphael.admobbannerkit.core.ui.AdBannerView
+        android:id="@+id/adBannerView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal" />
