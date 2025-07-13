@@ -48,9 +48,9 @@ di/                   # Módulos Koin para injeção de dependência
 
 ## 📸 Screenshots
 
-| Compose | XML |
-|--------|-----|
-| ![Compose Screenshot](screenshots/2.png) | ![XML Screenshot](screenshots/1.png) |
+| Compose                                  | XML                                  |
+|------------------------------------------|--------------------------------------|
+| ![Compose Screenshot](screenshots/1.png) | ![XML Screenshot](screenshots/2.png) |
 
 ---
 
